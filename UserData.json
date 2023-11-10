@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "userName": "ahmed",
+        "password": "123",
+        "questionTopics": {
+            "OOP": 3,
+            "CPP": 3,
+            "CSharp": 2
+        },
+        "score": 5
+    },
+    {
+        "id": 2,
+        "userName": "mohamed",
+        "password": "456",
+        "questionTopics": {
+            "OOP": 1,
+            "CPP": 1,
+            "CSharp": 1
+        },
+        "score": 0
+    },
+    {
+        "id": 3,
+        "userName": "Fares",
+        "password": "789",
+        "questionTopics": {
+            "OOP": 1,
+            "CPP": 1,
+            "CSharp": 1
+        },
+        "score": 0
+    },
+    {
+        "id": 4,
+        "userName": "ali",
+        "password": "212",
+        "questionTopics": {
+            "OOP": 1,
+            "CPP": 1,
+            "CSharp": 1
+        },
+        "score": 0
+    },
+    {
+        "id": 5,
+        "userName": "Sarah",
+        "password": "111",
+        "questionTopics": {
+            "OOP": 1,
+            "CPP": 1,
+            "CSharp": 1
+        },
+        "score": 0
+    }
+]

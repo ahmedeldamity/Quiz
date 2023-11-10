@@ -1,0 +1,151 @@
+{
+    "topics": [
+        {
+            "topic_name": "OOP",
+            "questions": [
+                {
+                    "id": 1,
+                    "question_statement": "What is OOP?",
+                    "options": [
+                        "1- Object-Oriented Programming",
+                        "2- Object-Oriented Process",
+                        "3- Object-Oriented Prototype",
+                        "4- Object-Oriented Project"
+                    ],
+                    "answer": 1,
+                    "point": 5
+                },
+                {
+                    "id": 2,
+                    "question_statement": "What is a class in OOP?",
+                    "options": [
+                        "1- An instance of an object",
+                        "2- A blueprint for creating objects",
+                        "3- A type of variable",
+                        "4- A function in OOP"
+                    ],
+                    "answer": 2,
+                    "point": 15
+                },
+                {
+                    "id": 3,
+                    "question_statement": "What is inheritance in OOP?",
+                    "options": [
+                        "1- A way to copy code from one program to another",
+                        "2- The process of acquiring the properties and behaviors of a parent class",
+                        "3- A form of code duplication",
+                        "4- A process of creating instances"
+                    ],
+                    "answer": 2,
+                    "point": 20
+                },
+                {
+                    "id": 4,
+                    "question_statement": "What is encapsulation in OOP?",
+                    "options": [
+                        "1- A way to hide the implementation details and show the functionality",
+                        "2- A way to make data accessible from anywhere in the program",
+                        "3- A way to create instances of classes",
+                        "4- A way to extend the functionality of a class"
+                    ],
+                    "answer": 1,
+                    "point": 10
+                }
+            ]
+        },
+        {
+            "topic_name": "CPP",
+            "questions": [
+                {
+                    "id": 1,
+                    "question_statement": "What is a reference variable in C++?",
+                    "options": [
+                        "1- A variable that cannot be changed after initialization",
+                        "2- A variable that holds the memory address of another variable",
+                        "3- A variable with a different name for the same memory location",
+                        "4- A variable used to store text data"
+                    ],
+                    "answer": 3,
+                    "point": 5
+                },
+                {
+                    "id": 2,
+                    "question_statement": "What is a constructor in C++?",
+                    "options": [
+                        "1- A function used to initialize the object's state",
+                        "2- A function used to destroy the object",
+                        "3- A function used to display object information",
+                        "4- A function used to create an object"
+                    ],
+                    "answer": 1,
+                    "point": 15
+                },
+                {
+                    "id": 3,
+                    "question_statement": "What is the 'new' operator used for in C++?",
+                    "options": [
+                        "1- To delete a file",
+                        "2- To allocate memory for an object",
+                        "3- To print text to the console",
+                        "4- To declare a new variable"
+                    ],
+                    "answer": 2,
+                    "point": 10
+                }
+            ]
+        },
+        {
+            "topic_name": "CSharp",
+            "questions": [
+                {
+                    "id": 1,
+                    "question_statement": "What does C# stand for?",
+                    "options": [
+                        "1- C-Sharp",
+                        "2- C-Plus",
+                        "3- C-Language",
+                        "4- C-Script"
+                    ],
+                    "answer": 1,
+                    "point": 5
+                },
+                {
+                    "id": 2,
+                    "question_statement": "Which data type is used to store whole numbers in C#?",
+                    "options": [
+                        "1- int" ,
+                        "2- double" ,
+                        "3- string" ,
+                        "4- bool" 
+                    ],
+                    "answer": 1,
+                    "point": 20
+                },
+                {
+                    "id": 3,
+                    "question_statement": "What is the entry point of a C# program?",
+                    "options": [
+                        "1- begin" ,
+                        "2- start" ,
+                        "3- main" ,
+                        "4- entry"   
+                    ],
+                    "answer": 3,
+                    "point": 15
+                },
+                {
+                    "id": 4,
+                    "question_statement": "How do you declare a string variable in C#?",
+                    "options": [
+                        "1- str" ,
+                        "2- string" ,
+                        "3- txt" ,
+                        "4- s"   
+                    ],
+                    "answer": 2,
+                    "point": 10
+                }
+            ]
+        }
+    ]
+}
